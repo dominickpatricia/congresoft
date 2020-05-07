@@ -14,7 +14,7 @@ import pe.edu.pucp.congresoft.mysql.CongresoMySQL;
 
 /**
  *
- *
+ 
  */
 public class Principal {
 
